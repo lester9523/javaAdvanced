@@ -1,4 +1,4 @@
-package com.example.lester.hello;
+package com.example.lester.jvm.hello;
 
 /**
  * @author lester
